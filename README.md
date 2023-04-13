@@ -5,4 +5,4 @@ Java Stream API, işlemleri birleştirerek verimli ve okunaklı bir şekilde kod
 
 Ayrıca, Java Stream API, çoklu iş parçacıklı işlem yapma yeteneğine sahiptir, böylece çok sayıda veri öğesi üzerinde çalışırken performansını artırabilirsiniz.
 
-Java Stream API'nin kullanımı, kodunuzun daha okunaklı, verimli ve ölçeklenebilir olmasına yardımcı olabilir.
+Java Stream API'nin kullanımı, kodunuzun daha okunaklı, verimli ve ölçeklenebilir olmasına yardımcı olabilir.   
